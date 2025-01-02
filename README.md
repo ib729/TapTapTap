@@ -16,8 +16,8 @@ A fuss-free, command-line tool for quick jot downs.
 ## Installation
 
 ### Prerequisites
-- Java Runtime Environment (JRE) 11 or later
-
+- Java must be installed on your system.
+  
 ### For MacOS and Linux:
 1. Download `TapTapTap.jar` and `Install.sh` from the [latest release](https://github.com/yourusername/taptaptap/releases/latest) 
 2. Run install script `chmod +x install.sh` then `sudo ./install.sh`
@@ -40,7 +40,7 @@ ttt name::content
 ttt -l
 
 # View specific note
-ttt -v note
+ttt -v name
 
 # Search text within notes
 ttt -f "text"
@@ -52,13 +52,13 @@ ttt -s
 ### Managing Notes
 ```bash
 # Delete specific note
-ttt -d note
+ttt -d name
 
 # Delete all notes (with confirmation)
 ttt -da
 
 # Export note to Downloads
-ttt -e note
+ttt -e name
 
 # Export all notes
 ttt -ea
