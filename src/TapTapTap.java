@@ -305,7 +305,7 @@ public class TapTapTap {
     }
 
     private static void showHelp() {
-        System.out.println("\nTapTapTap (ttt) - A simple note-taking app\n");
+        System.out.println("\nTapTapTap (ttt) - A fuss-free, command-line tool for quick jot downs.\n");
         System.out.println("Usage:");
         System.out.println("  ttt content                      -> saves a note with auto-generated name");
         System.out.println("  ttt name::content                -> saves a note with the given name");
