@@ -16,8 +16,8 @@ A fuss-free, command-line tool for quick jot downs.
 ## Installation
 
 ### Prerequisites
-- Java Runtime Environment (JRE) 11 or later
-
+- Java must be installed on your system.
+  
 ### For MacOS and Linux:
 1. Download `TapTapTap.jar` and `Install.sh` from the [latest release](https://github.com/yourusername/taptaptap/releases/latest) 
 2. Run install script `chmod +x install.sh` then `sudo ./install.sh`
