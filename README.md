@@ -40,7 +40,7 @@ ttt name::content
 ttt -l
 
 # View specific note
-ttt -v note
+ttt -v name
 
 # Search text within notes
 ttt -f "text"
@@ -52,13 +52,13 @@ ttt -s
 ### Managing Notes
 ```bash
 # Delete specific note
-ttt -d note
+ttt -d name
 
 # Delete all notes (with confirmation)
 ttt -da
 
 # Export note to Downloads
-ttt -e note
+ttt -e name
 
 # Export all notes
 ttt -ea
