@@ -1,8 +1,5 @@
-# TapTapTap
+# TapTapTap ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg) ![License](https://img.shields.io/badge/license-GPL--3.0-red.svg)
 A fuss-free, command-line tool for quick jot downs.
-
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
-![License](https://img.shields.io/badge/license-GPL--3.0-red.svg)
 
 ## Features
 - Instantly create notes from the command line
